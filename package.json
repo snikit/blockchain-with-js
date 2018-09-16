@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-with",
+  "version": "1.0.0",
+  "description": "blockchain-with-js",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snikit/blockchain-with-js.git"
+  },
+  "author": "snikit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snikit/blockchain-with-js/issues"
+  },
+  "homepage": "https://github.com/snikit/blockchain-with-js#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
